@@ -73,3 +73,5 @@ Handling imbalanced datasets is crucial for building effective machine learning 
 - scikit-learn
 - tensorflow
 - imbalanced-learn
+
+I completed this project as part of learning machine learning from the YouTube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
